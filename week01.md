@@ -1,7 +1,7 @@
 # Week 01 Assignment
 
 ## 1. Colab Notebook URL
-[(Điền link Colab của bạn)](https://colab.research.google.com/drive/1G0HBVLgSF4KLBLelpltvjtkm3tSZBDvp?usp=sharing)
+(https://colab.research.google.com/drive/1G0HBVLgSF4KLBLelpltvjtkm3tSZBDvp?usp=sharing)
 
 ## 2. My GitHub Profile
 https://github.com/maianhdo1608
